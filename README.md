@@ -37,4 +37,4 @@ Le code utilise les bibliothèques standard de Python suivantes :
 Le code ne dépend pas de bibliothèques externes.
 Auteur
 
-Le code a été écrit par Ilyas Tahir, étudiant en première année de Master BDIA à l'Université de Technologie de Bourgogne.
+Le code a été écrit par moi, étudiant en première année de Master BDIA à l'Université de Technologie de Bourgogne.
